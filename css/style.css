@@ -1751,3 +1751,14 @@ header {
             transform:scale(0);
   }
 }
+
+/*------------------------------------*\
+	Custom
+\*------------------------------------*/
+
+.home_no {
+    color: #fff;
+}
+.home_no:hover, .home_no:focus {
+    color: #fff;
+}
